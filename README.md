@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **HTML, CSS, JS, Angular**
 
+- 📧 Reach me at **hello@btalma.pl**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
