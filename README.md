@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btlm" alt="btlm" /> </p>
 
-- 🔭 I’m currently working on **home budget app** for personal use in purpose of learning Express.js and MongoDB
+- 🔭 I’m currently working on **home budget app** for personal use in purpose of learning Express.js and MongoDB. I also develop my game in **Godot**, soon on itch.io
 
 - 🌱 I’m currently learning **Express.js, Mongo**
 
