@@ -15,7 +15,7 @@
 
 - 📧 Reach me at **hello@btalma.pl**
 
-‼ My game's prototype: https://createdwithrum.itch.io/squared-the-game
+- ⭐ My game's prototype: [Squared: The Game](https://createdwithrum.itch.io/squared-the-game)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
