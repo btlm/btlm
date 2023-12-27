@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btlm" alt="btlm" /> </p>
 
-- 🔭 I’m currently working on **home budget app** for personal use in purpose of learning Express.js and MongoDB. I also develop my game in **Godot**, soon on itch.io
+- 🔭 I’m currently working on **management panel** for a client. 
 
-- 🌱 I’m currently learning **Express.js, Mongo**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 🤔 I’m looking for help with **UX/UI design**
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **HTML, CSS, JS, Angular**
 
 - 📧 Reach me at **hello@btalma.pl**
-
-- ⭐ My game's prototype: [Squared: The Game](https://createdwithrum.itch.io/squared-the-game)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -31,21 +29,20 @@
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+      <img src="https://blog.ninja-squad.com/assets/images/angular_gradient.png" alt="angular" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </td>
     <td>
-      <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </td>
