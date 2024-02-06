@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btlm" alt="btlm" /> </p>
 
-- 🔭 I’m currently working on **management panel** for a client. 
+- 🔭 I’m currently working on a **game** in a "Minigame a Month - Feb'24" game jam. 
 
 - 🌱 I’m currently learning **SwiftUI**
 
