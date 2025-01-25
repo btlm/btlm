@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
-<h3 align="center">I'm a frontend developer open to coop in any sideproject. I love innovative ideas and non-obvious approach.</h3>
+<h3 align="center">I'm a frontend/mobile developer open to coop in any sideproject. I love innovative ideas and non-obvious approach.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btlm" alt="btlm" /> </p>
 
-- 🔭 I’m currently working on a **game** in a "Minigame a Month - Feb'24" game jam. 
+- 🔭 I’m currently working on a **game** - secret project at the moment. 
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning _nothing new_
 
 - 🤔 I’m looking for help with **UX/UI design**
 
-- 👯 I’m looking to collaborate on **gamedev, frontend**
+- 👯 I’m looking to collaborate on **gamedev, frontend, mobile apps**
 
 - 💬 Ask me about **HTML, CSS, JS, Angular**
 
@@ -30,6 +30,7 @@
   <tr>
     <td>
       <img src="https://blog.ninja-squad.com/assets/images/angular_gradient.png" alt="angular" width="40" height="40"/>
+      <img src="https://miro.medium.com/v2/resize:fit:384/1*PeFnya42mpOiCvdgm49ifQ.png" alt="SwiftUI" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -41,6 +42,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      <img src="https://w7.pngwing.com/pngs/22/570/png-transparent-godot-game-engine-computer-software-github-free-and-open-source-software-engine-3d-computer-graphics-video-game-transport.png" alt="godot engine" width="40" height="40"/>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
